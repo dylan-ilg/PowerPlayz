@@ -1,1 +1,1 @@
-Discord not to manage Power Playz Server
+Discord bot to manage Power Playz Server
